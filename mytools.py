@@ -4,7 +4,7 @@ base_url = f"https://discord.com/api/v10"
 
 header = {
     'Content-Type':'application/json',
-    'authorization': 'Bot OTc3NjU3Nzg2ODg2Mzk4MDUy.Gmfhk-.cY-P3sp3h-XZ09QerI8zjjrhdy5Ta3ZjVBbA3g'
+    'authorization': 'TOKEN'
 }
 
 def getJson(url:str, param=None):
